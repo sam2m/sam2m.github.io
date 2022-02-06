@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="left">this repository is only for redirect link to blogspot which post to facebook.</h3>
+<h3 align="center"> this repository is only for redirect link to blogspot which shared to facebook.</h3>
 
 
 <br>
