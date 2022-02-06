@@ -1,8 +1,16 @@
 <h1 align="center">Hi, I'm Sam</h1>
+
+<br>
+
 <h3 align="center">this repository is only for redirect link to blogspot which post to facebook.</h3>
+
+
+<br>
 
 - 🌱 I’m currently learning **PHP, JavaScript**
 
+
+<br>
 
 
 
@@ -10,7 +18,7 @@
 
 
 
-
+<br>
 
 - 📫 How to reach me **suexamt@gmail.com**
 
